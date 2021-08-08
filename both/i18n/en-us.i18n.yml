@@ -58,7 +58,7 @@ common:
     counterparty: 'Counterparty'
 
 navbar:
-    siteName: 'BIG DIPPER'
+    siteName: 'Coow Scan'
     version: '-'
     validators: 'Validators'
     blocks: 'Blocks'

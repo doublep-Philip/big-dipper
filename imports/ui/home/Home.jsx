@@ -18,8 +18,8 @@ export default class Home extends Component{
     render() {
         return <div id="home">
             <Helmet>
-                <title>Big Dipper | Cosmos Explorer presented by Forbole</title>
-                <meta name="description" content="Cosmos is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms like Tendermint consensus." />
+                <title>Coow Scan Explorer</title>
+                <meta name="description" content="RIZON is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms like Tendermint consensus." />
             </Helmet>
             <ChainInfo/>
             <Consensus />
